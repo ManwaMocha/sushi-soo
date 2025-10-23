@@ -1,9 +1,29 @@
 {
-  "menu": [],
-  "reservations": [],
+  "menuImages": [
+    {
+      "id": "2",
+      "url": "http://localhost:3000/images/sushi2.jpg"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "6eab",
+      "name": "Augustus Mocha",
+      "date": "2025-08-29",
+      "time": "22:51",
+      "guests": 4
+    },
+    {
+      "id": "a76d",
+      "name": "Augustus Mocha",
+      "date": "2025-08-29",
+      "time": "21:18",
+      "guests": 4
+    }
+  ],
   "admin": [
     {
-      "id": 1,
+      "id": "1",
       "username": "sushisoo",
       "password": "kileleshwa2025"
     }
